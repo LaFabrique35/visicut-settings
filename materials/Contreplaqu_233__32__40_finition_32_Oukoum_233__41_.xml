@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <thumbnailPath>Contreplaqu_233__32__40_finition_32_Oukoum_233__41_.png</thumbnailPath>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#996600</color>
+  <name>Contreplaqué (finition Oukoumé)</name>
+  <materialThicknesses>
+    <float>3.0</float>
+  </materialThicknesses>
+</material>

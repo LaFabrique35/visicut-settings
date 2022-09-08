@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <thumbnailPath>Bambou_32_Plaqu_233__32_Laqu_233_.png</thumbnailPath>
+  <engraveColor>#ffffff</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#cc6600</color>
+  <name>Bambou Plaqué Laqué</name>
+  <materialThicknesses>
+    <float>3.0</float>
+    <float>5.0</float>
+    <float>5.5</float>
+  </materialThicknesses>
+</material>
