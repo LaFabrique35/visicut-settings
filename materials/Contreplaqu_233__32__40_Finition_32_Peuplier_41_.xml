@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description></description>
+  <thumbnailPath>Contreplaqu_233__32__40_Finition_32_Peuplier_41_.png</thumbnailPath>
+  <engraveColor>#ffffff</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#ffcc99</color>
+  <name>Contreplaqué (Finition Peuplier)</name>
+  <materialThicknesses>
+    <float>2.0</float>
+    <float>3.0</float>
+    <float>5.0</float>
+    <float>5.5</float>
+    <float>15.0</float>
+  </materialThicknesses>
+</material>
