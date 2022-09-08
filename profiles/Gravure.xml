@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<raster3dProfile version="0.0">
+  <DPI>300.0</DPI>
+  <description>A new Laserprofile</description>
+  <name>Gravure</name>
+  <invertColors>false</invertColors>
+  <colorShift>-5</colorShift>
+</raster3dProfile>
