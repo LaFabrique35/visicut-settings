@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
+  <originBottomLeft>true</originBottomLeft>
+  <jobSentText>Le fichier '$jobname' a bien été envoyé à $name
+Maintenant, destination la machine pour régler la hauteur du matériau (Z) puis l'origine du fichier en bas à gauche (X et Y) !</jobSentText>
+  <jobPrefix></jobPrefix>
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.SmoothieBoard">
+    <lineend>CRLF</lineend>
+    <baudRate>115200</baudRate>
+    <flipXaxis>false</flipXaxis>
+    <flipYaxis>true</flipYaxis>
+    <httpUploadUrl></httpUploadUrl>
+    <autoPlay>false</autoPlay>
+    <postHttpUploadGcode></postHttpUploadGcode>
+    <supportedResolutions>100,300,500,1000</supportedResolutions>
+    <waitForOKafterEachLine>true</waitForOKafterEachLine>
+    <preJobGcode>G21,G90,M3,M106,G92 X0 Y0 Z0</preJobGcode>
+    <postJobGcode>G0 X0 Y0,M5,M106,G4 S20,M107</postJobGcode>
+    <serialTimeout>1000</serialTimeout>
+    <exportPath></exportPath>
+    <uploadMethod>Octoprint</uploadMethod>
+    <identificationLine>Smoothie</identificationLine>
+    <initDelay>0</initDelay>
+    <host>10.24.224.4/</host>
+    <comport>auto</comport>
+    <max__speed>3000.0</max__speed>
+    <travel__speed>9000.0</travel__speed>
+    <blankLaserDuringRapids>false</blankLaserDuringRapids>
+    <useBidirectionalRastering>true</useBidirectionalRastering>
+    <spindleMax>1.0</spindleMax>
+    <currentPower>-1.0</currentPower>
+    <currentSpeed>-1.0</currentSpeed>
+    <nextPower>-1.0</nextPower>
+    <nextSpeed>-1.0</nextSpeed>
+    <currentFocus>0.0</currentFocus>
+    <bedWidth>500.0</bedWidth>
+    <bedHeight>300.0</bedHeight>
+    <rasterPadding>5.0</rasterPadding>
+    <rasterPaddingAllowOutsideMachineSpace>false</rasterPaddingAllowOutsideMachineSpace>
+    <apiKey>4FCC1F61EC4443579E2016E9026A17F4</apiKey>
+    <gCodeDigits>6</gCodeDigits>
+    <sCodeDigits>3</sCodeDigits>
+  </laserCutter>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>La_32_Fabrique_32_Amanlis_32_30x50cm.png</thumbnailPath>
+  <name>La Fabrique Amanlis 30x50cm</name>
+</laserDevice>
