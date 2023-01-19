@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<visicutPreferences version="0">
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <labName>La Fabrique Roche aux Fées</labName>
+  <enableQRCodes>false</enableQRCodes>
+  <fastQRCodes>false</fastQRCodes>
+  <fabqrActive>false</fabqrActive>
+  <fabqrPrivateURL></fabqrPrivateURL>
+  <fabqrPublicURL></fabqrPublicURL>
+  <fabqrPrivateUser></fabqrPrivateUser>
+  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <lastAutoUpdateTime>0</lastAutoUpdateTime>
+  <lastAutoUpdateLabName></lastAutoUpdateLabName>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>C:\Users\rpaquet\Downloads\ABox (2).svg</string>
+    <string>C:\Users\rpaquet\Documents\zigoui.svg</string>
+    <string>C:\Program Files (x86)\VisiCut\examples\bendable-material.svg</string>
+    <string>C:\Users\rpaquet\Downloads\il_1588xN.3403338769_1f2i.png</string>
+    <string>C:\Program Files (x86)\VisiCut\examples\Basic\rectangle-20mm-green.svg</string>
+  </recentFiles>
+  <lastMaterial>Médium (MDF)</lastMaterial>
+  <lastLaserDevice>La Fabrique Amanlis 30x50cm</lastLaserDevice>
+</visicutPreferences>
